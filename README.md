@@ -1,7 +1,5 @@
 # EX-02 – Cross-Platform Prompting: Evaluating Diverse Prompt Engineering Techniques in AI-Powered Applications
 
-**Name:** Arjun
-**Reg No:** <Your Register Number>
 
 ---
 
